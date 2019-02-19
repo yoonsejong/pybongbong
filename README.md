@@ -32,7 +32,7 @@ Python 3 clone of Bong Bong (1989)
 
 ## Terms of Usage
 * MIT license for the python scripts. Free for education and research purposes.
-* Please feel free to adopt to your AI/ML/PR classes. I am very happy to hear any of your feedback and/or bug report in adopting this.
+* Please feel free to adopt to your AI/ML/PR classes. I am very happy to hear any of your feedback and/or bug report in adopting this. You can find sample programming assignments in [hw_sample.zip](https://github.com/yoonsejong/pybongbong/blob/master/hw_sample.zip).
 * I declare no copyright on the art (including image files inside data/ directory and game design information in game_data.py). They belong to the original author (Lee T.K.).
 
 ## Known Bugs
@@ -40,8 +40,9 @@ Python 3 clone of Bong Bong (1989)
 * There is an unhandled race condition between the AI thread and the game engine thread. When a new stage starts, game state may not have been fully updated due to time consuming stage loading. One may pause the AI module a little during stage switches, or simply add locking in the game engine. (Thanks to Ethan Zeigler for reporting this)
 
 ## Future Work
-* A technical report describing example course projects is in preparation. Arxiv.org link to the paper will be posted here.
+* A technical report is in preparation. Arxiv.org link to the paper will be posted here.
 * Bug reports, suggestions, adoption stories into your courses are all welcome!
 
 ## Update History
+* February 18, 2019 - Added a sample programming assignment.
 * December 19, 2018 - Initial Release
