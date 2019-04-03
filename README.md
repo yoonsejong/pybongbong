@@ -10,8 +10,9 @@ Python 3 clone of Bong Bong (1989)
 * The purpose of this program is to provide a platformer game, that has discrete decision space, and reasonably medium in scale (not too small and not too large), where students can build and test their own game-playing AI agents.
 
 ## Related Arts
-* Super Mario Bros: A popular choice in RL student projects. pybongbong has both discrete decision and environment space model that restricts the search space in general. It is also a perfect information game (with an exception of the bonus bag). It is possible to consider further simplified version of the problem, e.g. no enemies or less number of platforms.
 * Pac-Man: Adopted in [Berkeley CS188 AI course](http://ai.berkeley.edu). pybongbong is a [platformer](https://en.wikipedia.org/wiki/Platform_game), thus it comes with a bit more complex field than the Pac-Man, and has built-in multiple levels, not too many (only 10). Agent-wise, Pac-Man has more complexity since it has multiple different adversarial strategies for ghosts.
+* Super Mario Bros: A popular choice in RL student projects. pybongbong has both discrete decision and environment space model that restricts the search space in general. It is also a perfect information game (with an exception of the bonus bag). It is possible to consider further simplified version of the problem, e.g. no enemies or less number of platforms.
+* Obstacle Tower Environment: A Unity-based environment to evaluate and compare RL strategies. Requires a high-level decision making from the agent, multiple levels, and physics based interactions with the environment. Does not have adversarial agents. A [research challenge](https://www.aicrowd.com/challenges/unity-obstacle-tower-challenge) has been orgaznied.
 
 ## Dependencies
 * [Arcade](http://arcade.academy): Requires Python 3.6+
