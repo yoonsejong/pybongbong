@@ -45,5 +45,6 @@ Python 3 clone of Bong Bong (1989)
 * Bug reports, suggestions, adoption stories into your courses are all welcome!
 
 ## Update History
+* November 16, 2020 - EAAI-20 version will be available on Dr. Neller's [Model AI Assignments](http://modelai.gettysburg.edu/) collection.
 * February 18, 2019 - Added a sample programming assignment.
 * December 19, 2018 - Initial Release
