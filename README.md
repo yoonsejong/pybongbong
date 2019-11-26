@@ -1,4 +1,4 @@
-# pybongbong
+# PyPlat
 Python 3 clone of Bong Bong (1989)
 
 ![pybongbong](banner.png "pybongbong")
