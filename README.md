@@ -1,5 +1,5 @@
 # PyPlat
-Python 3 clone of Bong Bong (1989)
+A flexible platform game project based on Python 3 clone of Bong Bong (1989)
 
 ![pybongbong](banner.png "pybongbong")
 
